@@ -1,21 +1,26 @@
 # Hangman Game 🎮
 
-This is a simple Hangman game made using Python.
+A simple text-based Hangman game built using Python.
 
-## How to Play
+## Features
+- Random word selection
+- 6 wrong attempts allowed
+- User guesses one letter at a time
+- Displays correct guesses
 
-* The computer selects a random word.
-* You have 6 wrong attempts.
-* Guess one letter at a time.
-* If you guess the word correctly, you win.
+## Technologies Used
+- Python
+- Random module
+- Loops and Conditionals
 
-## Concepts Used
+## How to Run
+1. Open terminal
+2. Run: python hangman.py
 
-* while loop
-* if-else
-* lists
-* strings
-* random module
+## What I Learned
+- How to use while loops
+- How to work with lists
+- How condition checking works
+- Basic game logic building
 
-This project is made for practice and learning Python basics.
-
+This project was created as part of my Python learning journey.
